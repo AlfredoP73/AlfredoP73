@@ -129,12 +129,20 @@ class AlfredoPerez:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlfredoP73&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170"/>
-<img src="https://streak-stats.demolab.com?user=AlfredoP73&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AlfredoP73&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&rank_icon=github" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoP73&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoP73&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" />
+<img src="https://streak-stats.demolab.com?user=AlfredoP73&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
 
 <br/>
 
@@ -142,7 +150,7 @@ class AlfredoPerez:
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlfredoP73&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AlfredoP73&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%"/>
 
 </div>
 
