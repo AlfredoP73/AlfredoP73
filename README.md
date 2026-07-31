@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=AlfredoP73&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Ingeniería%20de%20Sistemas%20·%20UPC%20·%20Valledupar&descAlignY=60&descSize=16" />
+<img src="./banner.png" width="100%" alt="AlfredoP73 Banner"/>
 
 <a href="https://github.com/AlfredoP73">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack;Estudiante+de+Ingeniería+de+Sistemas;Apasionado+por+el+software+bien+hecho" alt="Typing SVG" />
@@ -10,7 +10,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-AlfredoP73-181717?style=for-the-badge&logo=github)](https://github.com/AlfredoP73)
 [![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredojoseperezmeza124@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-_aperezm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aperezm/)
+[![Instagram](https://img.shields.io/badge/Instagram-thely0n__king-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thely0n_king/)
+[![Telegram](https://img.shields.io/badge/Telegram-thely0n__king-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thely0n_king)
 
 </div>
 
@@ -138,6 +139,10 @@ class AlfredoPerez:
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfredoP73&theme=github_dark" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlfredoP73&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="95%"/>
 
 </div>
 
