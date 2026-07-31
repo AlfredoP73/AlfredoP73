@@ -19,19 +19,40 @@
 
 ## 👨🏻‍💻 Sobre mí
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
 ```python
 class AlfredoPerez:
     nombre      = "Alfredo José Pérez Meza"
     usuario     = "AlfredoP73"
-    ubicacion   = "Valledupar, Cesar, Colombia"
-    educacion   = "Universidad Popular del Cesar — 9no semestre"
-    enfoque     = ["Full-Stack Web", "Microservicios", "Patrones GoF", "IA Generativa"]
-    aprendiendo = ["Arquitecturas escalables", "C#", "Cloud"]
-    hobbies     = ["Gym", "Gaming", "Películas Sci-Fi"]
+    ubicacion   = "Valledupar, Cesar, Colombia 🇨🇴"
+    educacion   = "Ing. Sistemas — UPC (9no semestre)"
+
+    enfoque     = [
+        "🌐 Full-Stack Web Development",
+        "🔩 Microservicios & APIs REST",
+        "🧩 Patrones de Diseño GoF",
+        "🤖 IA Generativa (Gemini API)",
+        "📄 Automatización de documentos",
+    ]
+
+    aprendiendo = ["C#", "Cloud (AWS)", "Arquitecturas escalables"]
+    hobbies     = ["🏋️ Gym", "🎮 Gaming", "🎬 Sci-Fi"]
 
     def saludo(self):
-        return "¡Hola! Bienvenido a mi perfil 👾"
+        return "¡Construyendo software que importa! 🚀"
 ```
+
+<br/>
+
+- 🎓 Estudiante de **Ingeniería de Sistemas** en la Universidad Popular del Cesar
+- 💡 Me apasiona construir soluciones reales con código limpio y bien estructurado
+- 🔭 Trabajando en proyectos con **FastAPI**, **React** y **NestJS**
+- 🧩 Aplicando patrones **GoF** en arquitecturas escalables
+- 🌱 Explorando **Cloud**, **Docker** y servicios de **IA generativa**
+- ⚡ Fan de Hollow Knight, los videojuegos indie y las películas de ciencia ficción
+
+<br clear="right"/>
 
 ---
 
