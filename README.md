@@ -63,8 +63,8 @@ class AlfredoPerez:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="130"/>
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="130"/>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="220"/>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="220"/>
 </div>
 
 ---
@@ -129,24 +129,22 @@ class AlfredoPerez:
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AlfredoP73&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&rank_icon=github" height="180"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoP73&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=AlfredoP73&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoP73&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=AlfredoP73&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=AlfredoP73&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="65%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlfredoP73&theme=github_dark" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlfredoP73&theme=github_dark" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlfredoP73&theme=github_dark" height="150"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlfredoP73&theme=github_dark" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlfredoP73&theme=github_dark&utcOffset=-5" height="150"/>
 
 <br/>
 
