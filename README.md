@@ -10,8 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-AlfredoP73-181717?style=for-the-badge&logo=github)](https://github.com/AlfredoP73)
 [![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredojoseperezmeza124@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-thely0n__king-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thely0n_king/)
-[![Telegram](https://img.shields.io/badge/Telegram-thely0n__king-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thely0n_king)
+[![Instagram](https://img.shields.io/badge/Instagram-_aperezm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_aperezm/)
 
 </div>
 
