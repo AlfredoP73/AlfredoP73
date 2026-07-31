@@ -33,86 +33,74 @@ class AlfredoPerez:
         return "¡Hola! Bienvenido a mi perfil 👾"
 ```
 
-<div align="right">
+---
+
+## 🛠️ Stack tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,python,fastapi,nodejs,nestjs,java,express,mongodb,mysql,dynamodb,git,github,docker,vscode,postman,linux,aws,firebase,c,cpp,kotlin,redux,nextjs,bootstrap&perline=10" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="130"/>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="130"/>
 </div>
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🚀 Proyectos destacados
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=10" />
-</p>
+<div align="center">
 
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,java,express&perline=10" />
-</p>
+### ⚡ [TaskFlow](https://github.com/AlfredoP73/taskflow)
+> Plataforma colaborativa de gestión de tareas implementando **12 patrones de diseño GoF**
 
-**Bases de datos**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb&perline=10" />
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,docker,react" />
 
-**Herramientas & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,aws,firebase&perline=10" />
-</p>
-
-**Otros**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,redux,nextjs,bootstrap&perline=10" />
-</p>
+![Python](https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-4EA94B?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react)
 
 ---
 
-## 🚀 Proyectos destacados
+### 🥗 [eNutriTrack](https://github.com/AlfredoP73/enutritrack)
+> App web de seguimiento nutricional con **microservicios** e **IA Generativa (Gemini API)**
 
-<table>
-  <tr>
-    <th>Proyecto</th>
-    <th>Descripción</th>
-    <th>Stack</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AlfredoP73/taskflow"><b>TaskFlow</b></a></td>
-    <td>Plataforma colaborativa de gestión de tareas con 12 patrones GoF</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=fastapi,mongodb,docker,react" />
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AlfredoP73/enutritrack"><b>eNutriTrack</b></a></td>
-    <td>App web de seguimiento nutricional con microservicios e IA generativa</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,ts,nestjs,java" />
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AlfredoP73/sidinalupc-server"><b>SIDINAL</b></a></td>
-    <td>Sistema de gestión académica con modelo SaaS</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,js" />
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AlfredoP73/clinica_paliativos"><b>Clínica Paliativos</b></a></td>
-    <td>Sistema de gestión para clínica de cuidados paliativos</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
-    </td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AlfredoP73/NomiWise"><b>NomiWise</b></a></td>
-    <td>Sistema de gestión de nómina</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,python" />
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,ts,nestjs,java" />
+
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Typed-3178C6?style=flat-square&logo=typescript)
+![NestJS](https://img.shields.io/badge/NestJS-Backend-E0234E?style=flat-square&logo=nestjs)
+![Java](https://img.shields.io/badge/Java-Microservices-ED8B00?style=flat-square&logo=openjdk)
+![Gemini](https://img.shields.io/badge/Gemini-AI_API-4285F4?style=flat-square&logo=google)
+
+---
+
+### 🎓 [SIDINAL](https://github.com/AlfredoP73/sidinalupc-server)
+> Sistema de gestión académica con arquitectura **SaaS** y modelo financiero proyectado a 5 años
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,js" />
+
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-009688?style=flat-square&logo=fastapi)
+![JS](https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 🏥 [Clínica Paliativos](https://github.com/AlfredoP73/clinica_paliativos)
+> Sistema de gestión para clínica de cuidados paliativos
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+---
+
+### 💼 [NomiWise](https://github.com/AlfredoP73/NomiWise)
+> Sistema de gestión de nómina empresarial
+
+<img src="https://skillicons.dev/icons?i=js,python" />
+
+</div>
 
 ---
 
