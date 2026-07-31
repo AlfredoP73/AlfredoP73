@@ -21,17 +21,22 @@
 
 ```python
 class AlfredoPerez:
-    nombre     = "Alfredo José Pérez Meza"
-    usuario    = "AlfredoP73"
-    ubicacion  = "Valledupar, Cesar, Colombia"
-    educacion  = "Universidad Popular del Cesar — 9no semestre"
-    enfoque    = ["Full-Stack Web", "Patrones GoF", "FastAPI", "React"]
-    aprendiendo = ["Arquitecturas escalables", "Docker", "C#"]
-    hobbies    = ["Gym", "Gaming", "Películas Sci-Fi"]
+    nombre      = "Alfredo José Pérez Meza"
+    usuario     = "AlfredoP73"
+    ubicacion   = "Valledupar, Cesar, Colombia"
+    educacion   = "Universidad Popular del Cesar — 9no semestre"
+    enfoque     = ["Full-Stack Web", "Microservicios", "Patrones GoF", "IA Generativa"]
+    aprendiendo = ["Arquitecturas escalables", "C#", "Cloud"]
+    hobbies     = ["Gym", "Gaming", "Películas Sci-Fi"]
 
     def saludo(self):
         return "¡Hola! Bienvenido a mi perfil 👾"
 ```
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="130"/>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="130"/>
+</div>
 
 ---
 
@@ -39,22 +44,27 @@ class AlfredoPerez:
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=10" />
 </p>
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,java,express&perline=10" />
 </p>
 
 **Bases de datos**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb&perline=10" />
 </p>
 
-**Herramientas**
+**Herramientas & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,aws,firebase&perline=10" />
+</p>
+
+**Otros**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,redux,nextjs,bootstrap&perline=10" />
 </p>
 
 ---
@@ -75,17 +85,17 @@ class AlfredoPerez:
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AlfredoP73/sidinalupc-server"><b>SIDINAL</b></a></td>
-    <td>Sistema de gestión académica con modelo SaaS</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,js" />
-    </td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/AlfredoP73/enutritrack"><b>eNutriTrack</b></a></td>
     <td>App web de seguimiento nutricional con microservicios e IA generativa</td>
     <td>
       <img src="https://skillicons.dev/icons?i=react,ts,nestjs,java" />
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AlfredoP73/sidinalupc-server"><b>SIDINAL</b></a></td>
+    <td>Sistema de gestión académica con modelo SaaS</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,js" />
     </td>
   </tr>
   <tr>
