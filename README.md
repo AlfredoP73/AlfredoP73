@@ -129,11 +129,6 @@ class AlfredoPerez:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlfredoP73&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoP73&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="170"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=AlfredoP73&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="65%"/>
 
 <br/>
